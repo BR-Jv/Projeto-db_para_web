@@ -1,0 +1,11 @@
+.table-responsive{
+    max-width: 880px;
+    margin: 2rem auto;
+}
+.btn-success {
+    margin: 0.5rem;
+}
+i {
+    width: 8px;
+    height: 8px;
+}
