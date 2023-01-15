@@ -1,6 +1,6 @@
 # Projeto-db_para_web
 
-Sistema C.R.U.D para cadastro de mangás, projeto desenvolvido para a disciplina de banco de dados para web, o objetivo desse projeto era desenvolver o assunto aprendido sobre Bancos de dados SQL. 
+Sistema C.R.U.D para cadastro de mangás, projeto desenvolvido para a disciplina de banco de dados para web, o objetivo dele era colocar em prática o assunto estudado sobre Bancos de dados SQL. 
 
 ## Imagens do projeto  
 *tela principal do sistema.*
@@ -8,11 +8,14 @@ Sistema C.R.U.D para cadastro de mangás, projeto desenvolvido para a disciplina
 *tela de login*
 ![tela principal](assets/imgs/telaLogin.png)
 
-## Tecnologias usados no projeto
+## Tecnologias usadas
 * PHP
 * HTML
 * BOOTSTRAP 5
 * MYSQL(SGDB) e SQL(DATABASE)
+
+## O que aprendi durante o desenvolvimento ? 
+Aprendi a linguagem PHP é como usa-lá para acessar banco de dados, além de ter meu primeiro contato com a hospedagem de sites.
 
 ## Objetivos de atualização
 * Implementar orientação a objetos no código
