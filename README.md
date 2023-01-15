@@ -2,7 +2,11 @@
 
 Sistema C.R.U.D para cadastro de mangás, projeto desenvolvido para a disciplina de banco de dados para web, o objetivo desse projeto era desenvolver o assunto aprendido sobre Bancos de dados SQL. 
 
-![alt text](caminho/img.png)
+## Imagens do projeto  
+![tela principal](assets/imgs/telaMain.png)
+tela principal do sistema.
+![tela principal](assets/imgs/telaLogin.png)
+tela de login
 
 ## Tecnologias usados no projeto
 * PHP
